@@ -1,2 +1,2 @@
-# ANLP_SCD
+# Self_Contrastive_Decdoing
 Self Contrastive Decoding
