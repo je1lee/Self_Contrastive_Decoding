@@ -7,7 +7,7 @@
 CUDA_VISBLE_DEVICES=0 python gen_example.py --prompt Barrack Obama was born in Honolulu, Hawaii. He was born in --model_path facebook/opt-13b --max_new_tokens 128
 ```
 
-### evaluation
+### Evaluation
 ---
 Self Contrastive Decoding
 ```
