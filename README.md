@@ -6,9 +6,7 @@
 
 
 ---
-you can generate text with both self-contrastive decoding and argmax
-
-Change the prompt in gen_example.py if you want to change the input for model
+You can generate text with both self-contrastive decoding and argmax. Change the prompt in gen_example.py if you want to change the input for model
 ```
 CUDA_VISBLE_DEVICES=0 python gen_example.py --model_path facebook/opt-13b --max_new_tokens 128
 ```
