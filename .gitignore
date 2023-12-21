@@ -5,9 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-_ssd0_data_fast-llm_opt-13b__beam_1_/*
-_ssd0_data_fast-llm_opt-13b__beam_2_/*
-_ssd0_data_fast-llm_opt-13b__beam_1_no_cont/*
+_ssd0_data_fast-llm_opt-13b__beam_1_/
+_ssd0_data_fast-llm_opt-13b__beam_2_/
+_ssd0_data_fast-llm_opt-13b__beam_1_no_cont/
 
 # Distribution / packaging
 .Python
