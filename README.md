@@ -6,9 +6,9 @@
 
 
 ---
-you can generate text with both self-contrastive decoding and argmax --prompt is where you should add prompt
+you can generate text with both self-contrastive decoding and argmax
 ```
-CUDA_VISBLE_DEVICES=0 python gen_example.py --prompt Barrack Obama was born in Honolulu, Hawaii. He was born in --model_path facebook/opt-13b --max_new_tokens 128
+CUDA_VISBLE_DEVICES=0 python gen_example.py --model_path facebook/opt-13b --max_new_tokens 128
 ```
 
 ### Evaluation
